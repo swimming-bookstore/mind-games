@@ -1,4 +1,6 @@
-> [!WARNING] Only use the following to a toxic person
+> [!WARNING]
+> Only use the following to a toxic person
+
 In any situation, do not apologize, do not explain yourself
 # Urgent
 ```mermaid
