@@ -1,7 +1,7 @@
 > [!WARNING]
 > Only use the following to a toxic person
 
-In any situation, do not apologize, do not explain yourself
+In any situation, do **not** apologize, do **not** explain yourself
 # Urgent
 ```mermaid
 flowchart TD
